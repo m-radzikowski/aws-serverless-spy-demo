@@ -1,6 +1,6 @@
 # Serverless Spy Demo
 
-A CDK project utlizing [Serverless Spy](https://serverlessspy.com/)
+A CDK project utilizing [ServerlessSpy](https://serverlessspy.com/)
 for integration tests.
 
 ![Serverless Spy testing points](./media/serverless-spy-testing-points.png)
